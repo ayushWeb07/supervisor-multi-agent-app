@@ -156,6 +156,13 @@ streamlit run frontend.py
 
 ---
 
+![LangChain](https://img.shields.io/badge/LangChain-📚-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-⚙️-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-🎨-brightgreen)
+![FastAPI](https://img.shields.io/badge/FastAPI-🚀-teal)
+![Dockerized](https://img.shields.io/badge/Docker-Ready-blue)
+
+
 
 ## 🤝 Contributing
 
