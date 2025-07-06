@@ -1,7 +1,5 @@
 # IMPORT PACKAGES
 
-
-
 from langgraph.graph import StateGraph
 from dotenv import load_dotenv
 

@@ -3,7 +3,10 @@ import requests
 import json
 import re
 
-from supabase_db import insert_chat, get_chat_history, get_session_summaries, sign_up_authentication, sign_in_authentication
+# import sys, os
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from backend.supabase_database import insert_chat, get_chat_history, get_session_summaries, sign_up_authentication, sign_in_authentication
 
 import uuid
 
@@ -245,7 +248,6 @@ if st.session_state["user_id"]:
             thread_id= st.session_state["session_id"]
             
             for chunk in stream_chat_response(prompt):
-                print(chunk)
                 full_response += chunk
                 clean_response = clean_text(full_response)
 

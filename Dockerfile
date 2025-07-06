@@ -17,6 +17,5 @@ COPY . .
 EXPOSE 8000 
 EXPOSE 8501
 
-
 # RUN BOTH THE BACKEND AND FRONTEND FILES USING A JOING SHELL COMMAND
-CMD ["sh", "-c", "uvicorn fastapi_backend:app --host 0.0.0.0 --port 8000 & streamlit run frontend.py --server.port 8501"]
+CMD ["sh", "-c", "uvicorn backend.fastapi_backend:app --host 0.0.0.0 --port 8000 & streamlit run frontend/streamlit_frontend.py --server.port 8501"]

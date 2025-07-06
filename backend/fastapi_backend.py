@@ -1,6 +1,6 @@
 # IMPORT PACKAGES
 from fastapi import FastAPI, Query
-from ai_agent import graph_builder
+from .ai_agent import graph_builder
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from utils import AgentState
