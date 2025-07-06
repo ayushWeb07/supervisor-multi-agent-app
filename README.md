@@ -124,8 +124,8 @@ A full-stack, modular, agentic AI system powered by LangGraph, LangChain, and mu
 ### 1. Clone Repo
 
 ```
-git clone https://github.com/yourusername/agentic-ai-app.git
-cd agentic-ai-app
+git clone https://github.com/ayushWeb07/supervisor-multi-agent-app.git
+cd supervisor-multi-agent-app
 ```
 
 
@@ -134,10 +134,15 @@ cd agentic-ai-app
 Create `.env` file:
 
 ```
-SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
-OPENAI_API_KEY=your_openai_key
-TAVILY_API_KEY=your_tavily_key
+TAVILY_API_KEY=...
+LANGSMITH_TRACING=...
+LANGSMITH_ENDPOINT=...
+LANGSMITH_API_KEY=...
+LANGSMITH_PROJECT=...
+OPENAI_API_KEY=...
+GROQ_API_KEY=...
+SUPABASE_URL=...
+SUPABASE_KEY=...
 ```
 
 ### 3. Run Locally
