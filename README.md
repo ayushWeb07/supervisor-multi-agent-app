@@ -5,7 +5,9 @@ A full-stack, modular, agentic AI system powered by LangGraph, LangChain, and mu
 
 ### 📸 Preview
 
-![App Screenshot](assets/chatbot_ui_1.png)
+| Chatbot UI (1) | Chatbot UI (2) |
+|---|---|
+| ![](assets/chatbot_ui_1.png) | ![](assets/chatbot_ui_1.png) |
 
 
 ---
