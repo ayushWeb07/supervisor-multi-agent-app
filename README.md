@@ -134,10 +134,10 @@ TAVILY_API_KEY=your_tavily_key
 
 ```
 # Backend
-uvicorn fastapi_backend:app --reload
+uvicorn backend.fastapi_backend:app --reload
 
 # Frontend
-streamlit run frontend.py
+streamlit run .\frontend\streamlit_frontend.py
 ```
 
 ---
