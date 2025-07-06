@@ -10,6 +10,14 @@ A full-stack, modular, agentic AI system powered by LangGraph, LangChain, and mu
 | ![](assets/chatbot_ui_1.png) | ![](assets/chatbot_ui_1.png) |
 
 
+| User Auth | Workflow |
+|---|---|
+| ![](assets/user_auth.png) | ![](assets/workflow.png) |
+
+| FastAPI | LangSmith |
+|---|---|
+| ![](assets/fastapi.png) | ![](assets/langsmith.png) |
+
 ---
 
 
