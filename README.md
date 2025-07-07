@@ -173,9 +173,7 @@ streamlit run .\frontend\streamlit_frontend.py
 ---
 
 ## 🔗 Links:
-[🎥 Full App Demo](https://youtu.be/4gy9xeHbfkc)
-[📖 Medium Blog](https://medium.com/@ayushbommana/building-a-supervisor-based-multi-agent-chatbot-system-ce4513872cee)
-[👨‍💼 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7347713877263994880/)
+[🎥 Full App Demo](https://youtu.be/4gy9xeHbfkc)   |   [📖 Medium Blog](https://medium.com/@ayushbommana/building-a-supervisor-based-multi-agent-chatbot-system-ce4513872cee)   |   [👨‍💼 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7347713877263994880/)
 
 
 ## 🤝 Contributing
