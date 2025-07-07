@@ -172,12 +172,10 @@ streamlit run .\frontend\streamlit_frontend.py
 
 ---
 
-![LangChain](https://img.shields.io/badge/LangChain-📚-blue)
-![LangGraph](https://img.shields.io/badge/LangGraph-⚙️-purple)
-![Streamlit](https://img.shields.io/badge/Streamlit-🎨-brightgreen)
-![FastAPI](https://img.shields.io/badge/FastAPI-🚀-teal)
-![Dockerized](https://img.shields.io/badge/Docker-Ready-blue)
-
+## 🔗 Links:
+[🎥 Full App Demo](https://youtu.be/4gy9xeHbfkc)
+[📖 Medium Blog](https://medium.com/@ayushbommana/building-a-supervisor-based-multi-agent-chatbot-system-ce4513872cee)
+[👨‍💼 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7347713877263994880/)
 
 
 ## 🤝 Contributing
